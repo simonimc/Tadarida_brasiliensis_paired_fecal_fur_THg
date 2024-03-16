@@ -5,7 +5,7 @@
 #---
 
 #This R code is for understanding relationships between paired samples of fecal and fur total Hg,
-#collected from T. brasilliensis in summer 2023. 
+#collected from T. brasiliensis in summer 2023. 
 
 #Make sure everything is clear in the workspace 
 rm(list=ls())##clear environment
